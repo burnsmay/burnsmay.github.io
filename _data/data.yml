@@ -41,7 +41,8 @@ sidebar:
         - item: Art
           link:
           
-        -item: Running
+        - item: Running
+          link:
 
 career-profile:
     title: Career Profile
