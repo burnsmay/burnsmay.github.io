@@ -112,11 +112,9 @@ certifications:
 
 
 projects:
-    title: Projects
+    title: Classes
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A detailed list of the classes I have taken thus far are provided below.
     assignments:
       - title: Velocity
         link: "#hook"
