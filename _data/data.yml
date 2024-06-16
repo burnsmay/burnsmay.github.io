@@ -32,14 +32,16 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Technology
           link:
 
-        - item: Snowboarding
+        - item: Fashion
           link:
 
-        - item: Cooking
+        - item: Art
           link:
+          
+        -item: Running
 
 career-profile:
     title: Career Profile
