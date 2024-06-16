@@ -110,6 +110,17 @@ certifications:
             MOS certification gives individuals the ability to achieve professional success in diverse professional environments, including business and finance, healthcare, computer science and IT, engineering, and more. It also empowers educators, employers, and the overall job industry.
             Microsoft Office Specialist (MOS) certification provides industry-leading assessments of skills and knowledge, giving students and professionals real-world exercises to appraise their understanding of Microsoft Office.
 
+        - name: Michigan Transfer Agreement (MTA) Certification
+          start: 2018
+          end: 2024
+          organization: Michigan Transfer Network
+          credentialurl: https://www.mitransfer.org/michigan-transfer-agreement
+          credentialname: MICHIGAN TRANSFER NETWORK
+          details: |
+          The Michigan Transfer Agreement (MTA) was designed to facilitate the transfer of general education requirements from one institution to another. Students may complete the Michigan Transfer Agreement as part of an associate’s degree or as a stand-alone package at a Michigan community college.
+          The Michigan Transfer Agreement Certification guarantees that the student has successfully completed at least 30 credits of coursework in six (6) defined areas with at least the grade of C in each course.
+          Individual sending institutions (the one marking your transcript as MTA-Satisfied) determine specific courses to be included in the MTA categories at their institution. Courses that are not transferable, such as those that are developmental or vocational in nature, shall not be included.
+
 
 projects:
     title: Classes
