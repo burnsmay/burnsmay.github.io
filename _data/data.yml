@@ -57,66 +57,66 @@ career-profile:
       
 education:
     title: <a href="https://burnsmay.github.io/burnsmay.github.io.education/"> Education </a>
-    info:
-      - degree: BSc in Computer Science
-        university: Michigan State University
-        time: 2022 - Present
+  #  info:
+  #    - degree: BSc in Computer Science
+  #      university: Michigan State University
+  #      time: 2022 - Present  
         
-      - degree: Associate of Science
-        university: North Central Michigan College
-        time: 2022 - 2024
+  #    - degree: Associate of Science
+  #      university: North Central Michigan College
+  #      time: 2022 - 2024
         
-      - degree: High School Diploma
-        university: Harbor Springs High School
-        time: 2018 - 2022
+  #    - degree: High School Diploma
+  #      university: Harbor Springs High School
+  #      time: 2018 - 2022
         
 
 
 experiences:
-    title: <a href="https://burnsmay.github.io/burnsmay.github.io.experiences/"> Experiences </a>
-    info:
-      - role: Sales Associate
-        time: June 2022 - Present
-        company: Monogram Goods, MI
-        details: |
-          - Drive and increase sales by engaging customers, encouraging sales and sharing knowledge of products
-          - Respond to customer inquiries, handle closing responsibilities and manage the cash register
+  #  title: <a href="https://burnsmay.github.io/burnsmay.github.io.experiences/"> Experiences </a>
+  #  info:
+  #    - role: Sales Associate
+  #      time: June 2022 - Present
+  #      company: Monogram Goods, MI
+  #      details: |
+  #        - Drive and increase sales by engaging customers, encouraging sales and sharing knowledge of products
+  #        - Respond to customer inquiries, handle closing responsibilities and manage the cash register
 
-      - role: Map Librarian
-        time: September 2022 - Present
-        company: Michigan State University Library
-        details: |
-          - Proficient in organizing, cataloging, and maintaining resources along with helping patrons locate information and resources
-          - Accomplished in providing excellent customer service addressing problems and inquires of patrons of all ages
+  #    - role: Map Librarian
+  #      time: September 2022 - Present
+  #      company: Michigan State University Library
+  #      details: |
+  #        - Proficient in organizing, cataloging, and maintaining resources along with helping patrons locate information and resources
+  #        - Accomplished in providing excellent customer service addressing problems and inquires of patrons of all ages
           
-      - role: Childcare Provider
-        time: 2018 - 2022, SEASONAL
-        company: Harbor Springs, MI
-        details: |
-          - Strong verbal communication skills for interacting with children, parents, and guardians, providing updates on the child's progress and activities
-          - Effective in supervising and ensuring the safety and well-being of children in various age groups.
+  #    - role: Childcare Provider
+  #      time: 2018 - 2022, SEASONAL
+  #      company: Harbor Springs, MI
+  #      details: |
+  #        - Strong verbal communication skills for interacting with children, parents, and guardians, providing updates on the child's progress and activities
+  #        - Effective in supervising and ensuring the safety and well-being of children in various age groups.
 
 certifications:
       title: <a href="https://burnsmay.github.io/burnsmay.github.io.certifications/"> Certifications </a>
-      list:
-        - name: Microsoft Office Specialist (MOS) Certification
-          start: 2021
-          end: 2022
-          organization: Microsoft
-          credentialurl: https://certiport.pearsonvue.com/Certifications/Microsoft/MOS/Overview
-          credentialname: Certiport
-          details: |
-            Microsoft Office Specialist (MOS) is an industry-recognized certification program that validates skills in Microsoft Office applications.
-            MOS certification gives individuals the ability to achieve professional success in diverse professional environments, including business and finance, healthcare, computer science and IT, engineering, and more. It also empowers educators, employers, and the overall job industry.
-            Microsoft Office Specialist (MOS) certification provides industry-leading assessments of skills and knowledge, giving students and professionals real-world exercises to appraise their understanding of Microsoft Office.
+  #    list:
+  #      - name: Microsoft Office Specialist (MOS) Certification
+  #        start: 2021
+  #        end: 2022
+  #        organization: Microsoft
+  #        credentialurl: https://certiport.pearsonvue.com/Certifications/Microsoft/MOS/Overview
+  #        credentialname: Certiport
+  #        details: |
+  #          Microsoft Office Specialist (MOS) is an industry-recognized certification program that validates skills in Microsoft Office applications.
+  #          MOS certification gives individuals the ability to achieve professional success in diverse professional environments, including business and finance, healthcare, computer science and IT, engineering, and more. It also empowers educators, employers, and the overall job industry.
+  #          Microsoft Office Specialist (MOS) certification provides industry-leading assessments of skills and knowledge, giving students and professionals real-world exercises to appraise their understanding of Microsoft Office.
 
-        - name: Michigan Transfer Agreement (MTA) Certification
-          start: 2018
-          end: 2024
-          organization: Michigan Transfer Network
-          credentialurl: https://www.mitransfer.org/michigan-transfer-agreement
-          credentialname: MICHIGAN TRANSFER NETWORK
-          details: |
+  #      - name: Michigan Transfer Agreement (MTA) Certification
+  #        start: 2018
+  #        end: 2024
+  #        organization: Michigan Transfer Network
+  #        credentialurl: https://www.mitransfer.org/michigan-transfer-agreement
+  #        credentialname: MICHIGAN TRANSFER NETWORK
+  #        details: |
               The Michigan Transfer Agreement (MTA) was designed to facilitate the transfer of general education requirements from one institution to another. Students may complete the Michigan Transfer Agreement as part of an associate’s degree or as a stand-alone package at a Michigan community college.
               The Michigan Transfer Agreement Certification guarantees that the student has successfully completed at least 30 credits of coursework in six (6) defined areas with at least the grade of C in each course.
               Individual sending institutions (the one marking your transcript as MTA-Satisfied) determine specific courses to be included in the MTA categories at their institution. Courses that are not transferable, such as those that are developmental or vocational in nature, shall not be included.
